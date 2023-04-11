@@ -8,6 +8,7 @@ namespace ArrayExample
         {
             Console.WriteLine("Hello World!");
             DuplicateElements.duplicateElements();
+            PrintAllUniqueElements.printAllUniqueElements();
         }
     }
 }
