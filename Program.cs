@@ -10,6 +10,7 @@ namespace ArrayExample
             DuplicateElements.duplicateElements();
             PrintAllUniqueElements.printAllUniqueElements();
             FindMaximumAndMinimumElement.findMaximumAndMinimumElement();
+            PyramidPattern.pyramidPattern();
         }
     }
 }
