@@ -12,6 +12,7 @@ namespace ArrayExample
             FindMaximumAndMinimumElement.findMaximumAndMinimumElement();
             PyramidPattern.pyramidPattern();
             BoxPattern.boxPattern();
+            FindSumOfAllNumber.findSumOfAllNumber();
         }
     }
 }
