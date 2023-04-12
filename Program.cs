@@ -11,6 +11,7 @@ namespace ArrayExample
             PrintAllUniqueElements.printAllUniqueElements();
             FindMaximumAndMinimumElement.findMaximumAndMinimumElement();
             PyramidPattern.pyramidPattern();
+            BoxPattern.boxPattern();
         }
     }
 }
