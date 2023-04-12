@@ -13,6 +13,7 @@ namespace ArrayExample
             PyramidPattern.pyramidPattern();
             BoxPattern.boxPattern();
             FindSumOfAllNumber.findSumOfAllNumber();
+            SumOFMetrix.sumOFMetrix();
         }
     }
 }
